@@ -75,5 +75,5 @@ gamelife
 
 <!-- wave svg -->
 <p align="center">
-	<img src="assets/animations/wave.svg alt="Wave animation"/>
+	<img src="assets/animations/wave.svg" alt="Wave animation"/>
 </p>
