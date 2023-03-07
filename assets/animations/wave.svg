@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none; display: block; z-index: 1; position: relative; shape-rendering: auto;" width="1233" height="324" preserveAspectRatio="xMidYMid" viewBox="0 0 1233 324">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: red; display: block; z-index: 1; position: relative; shape-rendering: auto;" width="1233" height="324" preserveAspectRatio="xMidYMid" viewBox="0 0 1233 324">
 <g transform="translate(616.5,162) scale(1,-1) translate(-616.5,-162)"><linearGradient id="lg-0.9371917037416968" x1="0" x2="1" y1="0" y2="0">
   <stop stop-color="#8229ff" offset="0"></stop>
   <stop stop-color="#02d892" offset="1"></stop>
