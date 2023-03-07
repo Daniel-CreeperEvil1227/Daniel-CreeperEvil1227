@@ -5,9 +5,9 @@
 
 <!-- lang table -->
 <table align="right">
-	<tr><td><a href="README.md" color="02D892"><img src="assets/flags/us-flag.png" height="24" display="flex" align="center"> English</a></td></tr>
-	<tr><td><a href="README_pt.md" color="02D892"><img src="assets/flags/br-flag.png" height="24" display="flex" align="center"> Português</a></td></tr>
-	<tr><td><a href="README_es.md" color="02D892"><img src="assets/flags/es-flag.png" height="24" display="flex" align="center"> Español</a></td></tr>
+	<tr><td><a href="README.md" color="02D892"><img src="assets/flags/us-flag.png" height="24" display="flex" align="center">&nbsp; English</a></td></tr>
+	<tr><td><a href="README_pt.md" color="02D892"><img src="assets/flags/br-flag.png" height="24" display="flex" align="center">&nbsp; Português</a></td></tr>
+	<tr><td><a href="README_es.md" color="02D892"><img src="assets/flags/es-flag.png" height="24" display="flex" align="center">&nbsp; Español</a></td></tr>
 </table>
 
 <!-- stats -->
