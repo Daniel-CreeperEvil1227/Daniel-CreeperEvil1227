@@ -41,8 +41,8 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="assets/icons/javascript.svg" alt="JavaScript Icon" height="42px"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="assets/icons/typescript.svg" alt="TypeScript Icon" height="42px"/> </a>
 	
-	<a href="https://react.dev/" target="_blank" title="React" aria-label="Access React website"> <img align="left" src="assets/icons/react.svg" alt="React Icon" height="42px"/> </a>
-	<a href="https://redux.js.org/" target="_blank" title="Redux" aria-label="Access Redux website"> <img align="left" src="assets/icons/redux.svg" alt="Redux Icon" height="42px"/> </a>
+	<a href="https://react.dev/" target="_blank" title="React.js" aria-label="Access React website"> <img align="left" src="assets/icons/react.svg" alt="React.js Icon" height="42px"/> </a>
+	<a href="https://redux.js.org/" target="_blank" title="Redux.js" aria-label="Access Redux website"> <img align="left" src="assets/icons/redux.svg" alt="Redux.js Icon" height="42px"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" title="JSON" aria-label="Access JSON website"> <img align="left" src="assets/icons/json.svg" alt="JSON Icon" height="42px"/> </a>
 	<a href="https://jwt.io/" target="_blank" title="JWT" aria-label="Access JSON Web Token website"> <img align="left" src="assets/icons/jwt.svg" alt="JSON Web Token Icon" height="42px"/> </a>
 	
@@ -64,9 +64,21 @@
 	<a href="https://www.figma.com/" target="_blank" title="Figma" aria-label="Access Figma website"> <img align="left" src="assets/icons/figma.svg" alt="Figma Icon" height="42px"/> </a>
 	<a href="https://eslint.org/" target="_blank" title="Eslint" aria-label="Access Eslint website"> <img align="left" src="assets/icons/eslint.svg" alt="Eslint Icon" height="42px"/> </a>
 	<a href="https://prettier.io/" target="_blank" title="Prettier" aria-label="Access Prettier website"> <img align="left" src="assets/icons/prettier.svg" alt="Prettier Icon" height="42px"/> </a>
-	<a href="https://trello.com/pt-BR" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="assets/icons/trello.svg" alt="Trello Icon" height="42px"/> </a>
-
+	<a href="https://trello.com/" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="assets/icons/trello.svg" alt="Trello Icon" height="42px"/> </a>
+	<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img align="left" src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px"/> </a>
 	
+</details>
+
+<!-- any lang/tool icons -->
+<details>
+	<summary><b>📚 &nbsp; I'm interested in learning:</b></summary>
+	<br/>
+	<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="42px"/> </a>
+	<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="42px"/> </a>
+	<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="42px"/> </a>
+	<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="42px"/> </a>
+	<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="42px"/> </a>
+
 </details>
 
 <!--
