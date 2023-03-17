@@ -34,16 +34,39 @@
 
 <!-- lang icons -->
 <details>
-	<summary><b>👩‍💻 &nbsp; Languages I learned:</b></summary>
+	<summary><b>👩‍💻 &nbsp; Languages and Libs/Frameworks I learned:</b></summary>
 	<br/>
-	<!-- [][][] < icons -->
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" height="42px"/> </a>
+	<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="" alt="TypeScript Icon" height="42px"/> </a>
+	
+	<a href="https://react.dev/" target="_blank" title="React" aria-label="Access React website"> <img align="left" src="" alt="React Icon" height="42px"/> </a>
+	<a href="https://redux.js.org/" target="_blank" title="Redux" aria-label="Access Redux website"> <img align="left" src="" alt="Redux Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" title="JSON" aria-label="Access JSON website"> <img align="left" src="" alt="JSON Icon" height="42px"/> </a>
+	<a href="https://jwt.io/" target="_blank" title="JWT" aria-label="Access JSON Web Token website"> <img align="left" src="" alt="JSON Web Token Icon" height="42px"/> </a>
+	
 </details>
 
 <!-- tool icons -->
 <details>
 	<summary><b>🛏 &nbsp; Tools I use:</b></summary>
 	<br/>
-	<!-- [][][] < icons -->
+	<a href="https://github.com/" target="_blank" title="GitHub" aria-label="Back to GitHub home"> <img align="left" src="" alt="GitHub Icon" height="42px"/> </a>
+	<a href="https://code.visualstudio.com/" target="_blank" title="VSCode" aria-label="Access VSCode website"> <img align="left" src="" alt="VisualStudioCode Icon" height="42px"/> </a>
+	<a href="https://git-scm.com/" target="_blank" title="Git" aria-label="Access Git website"> <img align="left" src="" alt="Git Icon" height="42px"/> </a>
+	<a href="https://gitforwindows.org/" target="_blank" title="GitBash" aria-label="Access Git for Windows website"> <img align="left" src="" alt="GitBash Icon" height="42px"/> </a>
+	<a href="https://www.npmjs.com/" target="_blank" title="Npm" aria-label="Access Npm website"> <img align="left" src="" alt="Npm Icon" height="42px"/> </a>
+	<a href="https://insomnia.rest/" target="_blank" title="Insomnia" aria-label="Access Insomnia website"> <img align="left" src="" alt="Insomnia Icon" height="42px"/> </a>
+	
+	<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img align="left" src="" alt="Vercel Icon" height="42px"/> </a>
+	<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" title="Windows 10" aria-label="Access Windows page"> <img align="left" src="" alt="Windows 10 Icon" height="42px"/> </a>
+	<a href="https://www.figma.com/" target="_blank" title="Figma" aria-label="Access Figma website"> <img align="left" src="" alt="Figma Icon" height="42px"/> </a>
+	<a href="https://eslint.org/" target="_blank" title="Eslint" aria-label="Access Eslint website"> <img align="left" src="" alt="Eslint Icon" height="42px"/> </a>
+	<a href="https://prettier.io/" target="_blank" title="Prettier" aria-label="Access Prettier website"> <img align="left" src="" alt="Prettier Icon" height="42px"/> </a>
+	<a href="https://trello.com/pt-BR" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="" alt="Trello Icon" height="42px"/> </a>
+
+	
 </details>
 
 <!--
