@@ -36,9 +36,9 @@
 <details>
 	<summary><b>👩‍💻 &nbsp; Languages and Libs/Frameworks I learned:</b></summary>
 	<br/>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" height="42px"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" height="42px"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="assets/icons/javascript.svg" alt="HTML5 Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="" alt="CSS3 Icon" height="42px"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="" alt="JavaScript Icon" height="42px"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="" alt="TypeScript Icon" height="42px"/> </a>
 	
 	<a href="https://react.dev/" target="_blank" title="React" aria-label="Access React website"> <img align="left" src="" alt="React Icon" height="42px"/> </a>
