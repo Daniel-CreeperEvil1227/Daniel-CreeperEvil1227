@@ -44,8 +44,14 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="assets/icons/css.svg" alt="CSS3 Icon" height="42px"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="assets/icons/javascript.svg" alt="JavaScript Icon" height="42px"/> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="assets/icons/typescript.svg" alt="TypeScript Icon" height="42px"/> </a>
-	
 	<a href="https://react.dev/" target="_blank" title="React.js" aria-label="Access React website"> <img align="left" src="assets/icons/react.svg" alt="React.js Icon" height="42px"/> </a>
+	<a href="https://styled-components.com/" target="_blank" title="Styled Components" aria-label="Access Styled Components website"> <img align="left" src="assets/icons/styled-components.svg" alt="Styled Components Icon" height="42px"/> </a>
+	<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank" title="React Toastfy" aria-label="Access React Toastfy website"> <img align="left" src="assets/icons/toastfy.svg" alt="React Toastfy Icon" height="42px"/> </a>
+	
+	<a href="https://axios-http.com/" target="_blank" title="Axios" aria-label="Access Axios website"> <img align="left" src="assets/icons/axios.svg" alt="Axios Icon" height="42px"/> </a>
+	<a href="https://reactrouter.com/en/main" target="_blank" title="React Router DOM" aria-label="Access React Router DOM website"> <img align="left" src="assets/icons/router-dom.svg" alt="Router DOM Icon" height="42px"/> </a>
+	<a href="https://react-hook-form.com/" target="_blank" title="React Hook Form" aria-label="Access React Hook Form website"> <img align="left" src="assets/icons/hook-form.svg" alt="Hook Form Icon" height="42px"/> </a>
+	<a href="https://mui.com/" target="_blank" title="Material UI" aria-label="Access Material UI website"> <img align="left" src="assets/icons/material-ui.svg" alt="Material UI Icon" height="42px"/> </a>
 	<a href="https://redux.js.org/" target="_blank" title="Redux.js" aria-label="Access Redux website"> <img align="left" src="assets/icons/redux.svg" alt="Redux.js Icon" height="42px"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" title="JSON" aria-label="Access JSON website"> <img align="left" src="assets/icons/json.svg" alt="JSON Icon" height="42px"/> </a>
 	<a href="https://jwt.io/" target="_blank" title="JWT" aria-label="Access JSON Web Token website"> <img align="left" src="assets/icons/jwt.svg" alt="JSON Web Token Icon" height="42px"/> </a>
