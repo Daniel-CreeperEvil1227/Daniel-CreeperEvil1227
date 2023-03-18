@@ -5,24 +5,25 @@
 
 <!-- lang table -->
 <table align="right">
-	<tr><td><a href="README.md" color="02D892"><img src="assets/flags/us-flag.png" height="24" display="flex" align="center">&nbsp; English</a></td></tr>
-	<tr><td><a href="README_pt.md" color="02D892"><img src="assets/flags/br-flag.png" height="24" display="flex" align="center">&nbsp; Português</a></td></tr>
-	<tr><td><a href="README_es.md" color="02D892"><img src="assets/flags/es-flag.png" height="24" display="flex" align="center">&nbsp; Español</a></td></tr>
+	<tr title="Access the English version"><td><a href="README.md" color="02D892" aria-label="Access the English version"><img src="assets/flags/us-flag.png" alt="united states flag icon" height="24" display="flex" align="center">&nbsp; English</a></td></tr>
+	<tr title="Acessar versão em Português"><td><a href="README_pt.md" color="02D892" aria-label="Acessar versão em Português"><img src="assets/flags/br-flag.png" alt="brazil flag icon" height="24" display="flex" align="center">&nbsp; Português</a></td></tr>
+	<tr title="Accede a la versión en español"><td><a href="README_es.md" color="02D892" aria-label="Accede a la versión en español"><img src="assets/flags/es-flag.png" alt="spain flag icon" height="24" display="flex" align="center">&nbsp; Español</a></td></tr>
 </table>
 
 <!-- stats -->
 <div>
 	<a href="https://github.com/Daniel-CreeperEvil1227">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-CreeperEvil1227&count_private=true&include_all_commits=true&show_icons=true&border_color=8229ff&bg_color=0D1117&title_color=02D892&text_color=C9D1D9&icon_color=8229ff" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-CreeperEvil1227&count_private=true&include_all_commits=true&custom_title=Daniel's&nbsp;GitHub&nbsp;Stats&show_icons=true&border_color=8229ff&bg_color=0D1117&title_color=02D892&text_color=C9D1D9&icon_color=8229ff" />
 	<span>&nbsp;</span>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-CreeperEvil1227&layout=compact&border_color=8229ff&bg_color=0D1117&title_color=C9D1D9&text_color=02D892" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-CreeperEvil1227&layout=compact&langs_count=10&border_color=8229ff&bg_color=0D1117&title_color=C9D1D9&text_color=02D892" />
 </div>
 
 <!-- social media icons -->
 <details>
 	<summary><b>😄 &nbsp;Connect with me:</b></summary>
 	<br/>
-	<!-- [][][] < cloud icons -->
+	<a href="https://www.linkedin.com/in/carlosdaniel1227/?locale=en_US" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img align="left" src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="42px"/> </a>
+	
 </details>
 
 <!-- current lang/tool icons -->
