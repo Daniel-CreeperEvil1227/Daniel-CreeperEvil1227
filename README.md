@@ -40,43 +40,49 @@
 <details>
 	<summary><b>👩‍💻 &nbsp; Languages and Libs/Frameworks I learned:</b></summary>
 	<br/>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="assets/icons/html.svg" alt="HTML5 Icon" height="42px"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="assets/icons/css.svg" alt="CSS3 Icon" height="42px"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="assets/icons/javascript.svg" alt="JavaScript Icon" height="42px"/> </a>
-	<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="assets/icons/typescript.svg" alt="TypeScript Icon" height="42px"/> </a>
-	<a href="https://react.dev/" target="_blank" title="React.js" aria-label="Access React website"> <img align="left" src="assets/icons/react.svg" alt="React.js Icon" height="42px"/> </a>
-	<a href="https://styled-components.com/" target="_blank" title="Styled Components" aria-label="Access Styled Components website"> <img align="left" src="assets/icons/styled-components.svg" alt="Styled Components Icon" height="42px"/> </a>
-	<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank" title="React Toastfy" aria-label="Access React Toastfy website"> <img align="left" src="assets/icons/toastfy.svg" alt="React Toastfy Icon" height="42px"/> </a>
-	
-	<a href="https://axios-http.com/" target="_blank" title="Axios" aria-label="Access Axios website"> <img align="left" src="assets/icons/axios.svg" alt="Axios Icon" height="42px"/> </a>
-	<a href="https://reactrouter.com/en/main" target="_blank" title="React Router DOM" aria-label="Access React Router DOM website"> <img align="left" src="assets/icons/router-dom.svg" alt="Router DOM Icon" height="42px"/> </a>
-	<a href="https://react-hook-form.com/" target="_blank" title="React Hook Form" aria-label="Access React Hook Form website"> <img align="left" src="assets/icons/hook-form.svg" alt="Hook Form Icon" height="42px"/> </a>
-	<a href="https://mui.com/" target="_blank" title="Material UI" aria-label="Access Material UI website"> <img align="left" src="assets/icons/material-ui.svg" alt="Material UI Icon" height="42px"/> </a>
-	<a href="https://redux.js.org/" target="_blank" title="Redux.js" aria-label="Access Redux website"> <img align="left" src="assets/icons/redux.svg" alt="Redux.js Icon" height="42px"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" title="JSON" aria-label="Access JSON website"> <img align="left" src="assets/icons/json.svg" alt="JSON Icon" height="42px"/> </a>
-	<a href="https://jwt.io/" target="_blank" title="JWT" aria-label="Access JSON Web Token website"> <img align="left" src="assets/icons/jwt.svg" alt="JSON Web Token Icon" height="42px"/> </a>
-	
+	<div>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="assets/icons/html.svg" alt="HTML5 Icon" height="42px" width="42px"/> </a>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" aria-label="Access CSS3 docs"> <img align="left" src="assets/icons/css.svg" alt="CSS3 Icon" height="42px" width="42px"/> </a>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" aria-label="Access JavaScript docs"> <img align="left" src="assets/icons/javascript.svg" alt="JavaScript Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" aria-label="Access TypeScript website"> <img align="left" src="assets/icons/typescript.svg" alt="TypeScript Icon" height="42px" width="42px"/> </a>
+		<a href="https://react.dev/" target="_blank" title="React.js" aria-label="Access React website"> <img align="left" src="assets/icons/react.svg" alt="React.js Icon" height="42px" width="42px"/> </a>
+		<a href="https://styled-components.com/" target="_blank" title="Styled Components" aria-label="Access Styled Components website"> <img align="left" src="assets/icons/styled-components.svg" alt="Styled Components Icon" height="42px" width="42px"/> </a>
+		<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank" title="React Toastfy" aria-label="Access React Toastfy website"> <img align="left" src="assets/icons/toastfy.svg" alt="React Toastfy Icon" height="42px" width="42px"/> </a>
+	</div>
+	<br/><br/>
+	<div>
+		<a href="https://axios-http.com/" target="_blank" title="Axios" aria-label="Access Axios website"> <img align="left" src="assets/icons/axios.svg" alt="Axios Icon" height="42px" width="42px"/> </a>
+		<a href="https://reactrouter.com/en/main" target="_blank" title="React Router DOM" aria-label="Access React Router DOM website"> <img align="left" src="assets/icons/router-dom.svg" alt="Router DOM Icon" height="42px" width="42px"/> </a>
+		<a href="https://react-hook-form.com/" target="_blank" title="React Hook Form" aria-label="Access React Hook Form website"> <img align="left" src="assets/icons/hook-form.svg" alt="Hook Form Icon" height="42px" width="42px"/> </a>
+		<a href="https://mui.com/" target="_blank" title="Material UI" aria-label="Access Material UI website"> <img align="left" src="assets/icons/material-ui.svg" alt="Material UI Icon" height="42px" width="42px"/> </a>
+		<a href="https://redux.js.org/" target="_blank" title="Redux.js" aria-label="Access Redux website"> <img align="left" src="assets/icons/redux.svg" alt="Redux.js Icon" height="42px" width="42px"/> </a>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" title="JSON" aria-label="Access JSON website"> <img align="left" src="assets/icons/json.svg" alt="JSON Icon" height="42px" width="42px"/> </a>
+		<a href="https://jwt.io/" target="_blank" title="JWT" aria-label="Access JSON Web Token website"> <img align="left" src="assets/icons/jwt.svg" alt="JSON Web Token Icon" height="42px" width="42px"/> </a>
+	</div>
 </details>
 
 <!-- tool icons -->
 <details>
 	<summary><b>🛏 &nbsp; Tools I use:</b></summary>
 	<br/>
-	<a href="https://github.com/" target="_blank" title="GitHub" aria-label="Back to GitHub home"> <img align="left" src="assets/icons/github.svg" alt="GitHub Icon" height="42px"/> </a>
-	<a href="https://code.visualstudio.com/" target="_blank" title="VSCode" aria-label="Access VSCode website"> <img align="left" src="assets/icons/vscode.svg" alt="VisualStudioCode Icon" height="42px"/> </a>
-	<a href="https://git-scm.com/" target="_blank" title="Git" aria-label="Access Git website"> <img align="left" src="assets/icons/git.svg" alt="Git Icon" height="42px"/> </a>
-	<a href="https://gitforwindows.org/" target="_blank" title="GitBash" aria-label="Access Git for Windows website"> <img align="left" src="assets/icons/gitbash.svg" alt="GitBash Icon" height="42px"/> </a>
-	<a href="https://www.npmjs.com/" target="_blank" title="Npm" aria-label="Access Npm website"> <img align="left" src="assets/icons/npm.svg" alt="Npm Icon" height="42px"/> </a>
-	<a href="https://insomnia.rest/" target="_blank" title="Insomnia" aria-label="Access Insomnia website"> <img align="left" src="assets/icons/insomnia.svg" alt="Insomnia Icon" height="42px"/> </a>
-	
-	<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img align="left" src="assets/icons/vercel.svg" alt="Vercel Icon" height="42px"/> </a>
-	<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" title="Windows 10" aria-label="Access Windows page"> <img align="left" src="assets/icons/windows.svg" alt="Windows 10 Icon" height="42px"/> </a>
-	<a href="https://www.figma.com/" target="_blank" title="Figma" aria-label="Access Figma website"> <img align="left" src="assets/icons/figma.svg" alt="Figma Icon" height="42px"/> </a>
-	<a href="https://eslint.org/" target="_blank" title="Eslint" aria-label="Access Eslint website"> <img align="left" src="assets/icons/eslint.svg" alt="Eslint Icon" height="42px"/> </a>
-	<a href="https://prettier.io/" target="_blank" title="Prettier" aria-label="Access Prettier website"> <img align="left" src="assets/icons/prettier.svg" alt="Prettier Icon" height="42px"/> </a>
-	<a href="https://trello.com/" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="assets/icons/trello.svg" alt="Trello Icon" height="42px"/> </a>
-	<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img align="left" src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px"/> </a>
-	
+	<div>
+		<a href="https://github.com/" target="_blank" title="GitHub" aria-label="Back to GitHub home"> <img align="left" src="assets/icons/github.svg" alt="GitHub Icon" height="42px" width="42px"/> </a>
+		<a href="https://code.visualstudio.com/" target="_blank" title="VSCode" aria-label="Access VSCode website"> <img align="left" src="assets/icons/vscode.svg" alt="VisualStudioCode Icon" height="42px" width="42px"/> </a>
+		<a href="https://git-scm.com/" target="_blank" title="Git" aria-label="Access Git website"> <img align="left" src="assets/icons/git.svg" alt="Git Icon" height="42px" width="42px"/> </a>
+		<a href="https://gitforwindows.org/" target="_blank" title="GitBash" aria-label="Access Git for Windows website"> <img align="left" src="assets/icons/gitbash.svg" alt="GitBash Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.npmjs.com/" target="_blank" title="Npm" aria-label="Access Npm website"> <img align="left" src="assets/icons/npm.svg" alt="Npm Icon" height="42px" width="42px"/> </a>
+		<a href="https://insomnia.rest/" target="_blank" title="Insomnia" aria-label="Access Insomnia website"> <img align="left" src="assets/icons/insomnia.svg" alt="Insomnia Icon" height="42px" width="42px"/> </a>
+	</div>
+	<br/><br/>
+	<div>
+		<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img align="left" src="assets/icons/vercel.svg" alt="Vercel Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" title="Windows 10" aria-label="Access Windows page"> <img align="left" src="assets/icons/windows.svg" alt="Windows 10 Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.figma.com/" target="_blank" title="Figma" aria-label="Access Figma website"> <img align="left" src="assets/icons/figma.svg" alt="Figma Icon" height="42px" width="42px"/> </a>
+		<a href="https://eslint.org/" target="_blank" title="Eslint" aria-label="Access Eslint website"> <img align="left" src="assets/icons/eslint.svg" alt="Eslint Icon" height="42px" width="42px"/> </a>
+		<a href="https://prettier.io/" target="_blank" title="Prettier" aria-label="Access Prettier website"> <img align="left" src="assets/icons/prettier.svg" alt="Prettier Icon" height="42px" width="42px"/> </a>
+		<a href="https://trello.com/" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="assets/icons/trello.svg" alt="Trello Icon" height="42px" width="42px"/> </a>
+		<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img align="left" src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px" width="42px"/> </a>
+	</div>
 </details>
 
 <!-- any lang/tool icons -->
