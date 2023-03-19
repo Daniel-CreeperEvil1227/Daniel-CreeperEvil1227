@@ -90,11 +90,11 @@
 <details>
 	<summary><b>📚 &nbsp; I'm interested in learning:</b></summary>
 	<br/>
-	<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="42px"/> </a>
-	<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="42px"/> </a>
-	<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="42px"/> </a>
-	<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="42px"/> </a>
-	<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="42px"/> </a>
+	<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="42px" width="42px"/> </a>
+	<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="42px" width="42px"/> </a>
+	<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="42px" width="42px"/> </a>
+	<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="42px" width="42px"/> </a>
+	<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="42px" width="42px"/> </a>
 
 </details>
 
