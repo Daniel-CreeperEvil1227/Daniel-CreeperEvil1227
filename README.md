@@ -104,6 +104,16 @@
 		<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img align="left" src="assets/icons/spring.svg" alt="Spring Icon" height="42px" width="42px"/> </a>
 		<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img align="left" src="assets/icons/laravel.svg" alt="Laravel Icon" height="42px" width="42px"/> </a>
 	</div>
+	<br/><br/>
+	<div>
+		<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img align="left" src="assets/icons/java.svg" alt="Java Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img align="left" src="assets/icons/c.svg" alt="C Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" title="C++" aria-label="Access Cplusplus docs"> <img align="left" src="assets/icons/c++.svg" alt="C++ Icon" height="42px" width="42px"/> </a>
+		<a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" title="C#" aria-label="Access Csharp docs"> <img align="left" src="assets/icons/c#.svg" alt="C# Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img align="left" src="assets/icons/php.svg" alt="PHP Icon" height="42px" width="42px"/> </a>
+		<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img align="left" src="assets/icons/swift.svg" alt="Swift Icon" height="42px" width="42px"/> </a>
+		<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img align="left" src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="42px" width="42px"/> </a>
+	</div>
 	
 </details>
 
