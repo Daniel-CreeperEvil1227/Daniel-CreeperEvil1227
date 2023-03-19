@@ -122,6 +122,15 @@
 		<a href="https://dart.dev/" target="_blank" title="Dart" aria-label="Access Dart website"> <img align="left" src="assets/icons/dart.svg" alt="Dart Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" aria-label="Access Ruby website"> <img align="left" src="assets/icons/ruby.svg" alt="Ruby Icon" height="48px" width="42px"/> </a>
 	</div>
+	<br/><br/>
+	<div>
+		<a href="https://www.oracle.com/" target="_blank" title="Oracle Techs" aria-label="Access Oracle website"> <img align="left" src="assets/icons/oracle.svg" alt="Oracle Icon" height="48px" width="104px"/> </a>
+		<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img align="left" src="assets/icons/mysql-c.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="Microsoft SQL Server" aria-label="Access Microsoft SQL Server website"> <img align="left" src="assets/icons/sqlserver.svg" alt="Microsoft SQL Server Icon" height="48px" width="42px"/> </a>
+		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img align="left" src="assets/icons/redis.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
+		<a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Cassandra" aria-label="Access Cassandra website"> <img align="left" src="assets/icons/cassandra.svg" alt="Cassandra Icon" height="48px" width="42px"/> </a>
+		<a href="https://sqlite.org/index.html" target="_blank" title="SQLite" aria-label="Access SQLite website"> <img align="left" src="assets/icons/sqlite.svg" alt="SQLite Icon" height="48px" width="42px"/> </a>
+	</div>
 	
 </details>
 
