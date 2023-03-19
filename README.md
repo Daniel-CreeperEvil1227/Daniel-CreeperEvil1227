@@ -72,16 +72,17 @@
 		<a href="https://gitforwindows.org/" target="_blank" title="GitBash" aria-label="Access Git for Windows website"> <img align="left" src="assets/icons/gitbash.svg" alt="GitBash Icon" height="42px" width="42px"/> </a>
 		<a href="https://www.npmjs.com/" target="_blank" title="Npm" aria-label="Access Npm website"> <img align="left" src="assets/icons/npm.svg" alt="Npm Icon" height="42px" width="42px"/> </a>
 		<a href="https://insomnia.rest/" target="_blank" title="Insomnia" aria-label="Access Insomnia website"> <img align="left" src="assets/icons/insomnia.svg" alt="Insomnia Icon" height="42px" width="42px"/> </a>
+		<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img align="left" src="assets/icons/vercel.svg" alt="Vercel Icon" height="42px" width="42px"/> </a>
 	</div>
 	<br/><br/>
 	<div>
-		<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img align="left" src="assets/icons/vercel.svg" alt="Vercel Icon" height="42px" width="42px"/> </a>
+		<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img align="left" src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px" width="42px"/> </a>
+		<a href="https://codepen.io/" target="_blank" title="CodePen" aria-label="Access CodePen website"> <img align="left" src="assets/icons/codepen.svg" alt="CodePen Icon" height="42px" width="42px"/> </a>
 		<a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank" title="Windows 10" aria-label="Access Windows page"> <img align="left" src="assets/icons/windows.svg" alt="Windows 10 Icon" height="42px" width="42px"/> </a>
 		<a href="https://www.figma.com/" target="_blank" title="Figma" aria-label="Access Figma website"> <img align="left" src="assets/icons/figma.svg" alt="Figma Icon" height="42px" width="42px"/> </a>
 		<a href="https://eslint.org/" target="_blank" title="Eslint" aria-label="Access Eslint website"> <img align="left" src="assets/icons/eslint.svg" alt="Eslint Icon" height="42px" width="42px"/> </a>
 		<a href="https://prettier.io/" target="_blank" title="Prettier" aria-label="Access Prettier website"> <img align="left" src="assets/icons/prettier.svg" alt="Prettier Icon" height="42px" width="42px"/> </a>
 		<a href="https://trello.com/" target="_blank" title="Trello" aria-label="Access Trello website"> <img align="left" src="assets/icons/trello.svg" alt="Trello Icon" height="42px" width="42px"/> </a>
-		<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img align="left" src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px" width="42px"/> </a>
 	</div>
 </details>
 
