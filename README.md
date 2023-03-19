@@ -22,18 +22,17 @@
 <details>
 	<summary><b>😄 &nbsp;Connect with me:</b></summary>
 	<br/>
-	<a href="https://www.linkedin.com/in/carlosdaniel1227/?locale=en_US" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img align="left" src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="42px"/> </a>
-	
+	<a href="https://www.linkedin.com/in/carlosdaniel1227/?locale=en_US" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img align="left" src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="48px"/> </a>
 </details>
-
+<div></div>
+	
 <!-- current lang/tool icons -->
-<details>
+<details style="clear: both;">
 	<summary><b>📝 &nbsp; I'm currently learning / improving on:</b></summary>
 	<br/>
-	<a href="https://nodejs.org/en" target="_blank" title="Node.js" aria-label="Access Node website"> <img align="left" src="assets/icons/node.svg" alt="Node.js Icon" height="34px" width="142px"/> </a>
-	<a href="https://expressjs.com/" target="_blank" title="Express.js" aria-label="Access Express website"> <img align="left" src="assets/icons/express.svg" alt="Express.js Icon" height="42px" width="142px"/> </a>
+	<a href="https://nodejs.org/en" target="_blank" title="Node.js" aria-label="Access Node website"> <img align="left" src="assets/icons/node.svg" alt="Node.js Icon" height="30px" width="110px"/> </a>
+	<a href="https://expressjs.com/" target="_blank" title="Express.js" aria-label="Access Express website"> <img align="left" src="assets/icons/express.svg" alt="Express.js Icon" height="42px" width="130px"/> </a>
 	<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" aria-label="Access PostgreSQL website"> <img align="left" src="assets/icons/postgresql.svg" alt="PostgreSQL Icon" height="42px" width="162px"/> </a>
-	
 </details>
 
 <!-- lang icons -->
@@ -125,9 +124,9 @@
 	<br/><br/>
 	<div>
 		<a href="https://www.oracle.com/" target="_blank" title="Oracle Techs" aria-label="Access Oracle website"> <img align="left" src="assets/icons/oracle.svg" alt="Oracle Icon" height="48px" width="104px"/> </a>
-		<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img align="left" src="assets/icons/mysql-c.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img align="left" src="assets/icons/mysql.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="Microsoft SQL Server" aria-label="Access Microsoft SQL Server website"> <img align="left" src="assets/icons/sqlserver.svg" alt="Microsoft SQL Server Icon" height="48px" width="42px"/> </a>
-		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img align="left" src="assets/icons/redis.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
+		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img align="left" src="assets/icons/redis2.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
 		<a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Cassandra" aria-label="Access Cassandra website"> <img align="left" src="assets/icons/cassandra.svg" alt="Cassandra Icon" height="48px" width="42px"/> </a>
 		<a href="https://sqlite.org/index.html" target="_blank" title="SQLite" aria-label="Access SQLite website"> <img align="left" src="assets/icons/sqlite.svg" alt="SQLite Icon" height="48px" width="42px"/> </a>
 	</div>
