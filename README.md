@@ -30,9 +30,9 @@
 <details>
 	<summary><b>📝 &nbsp; I'm currently learning / improving on:</b></summary>
 	<br/>
-	<a href="https://nodejs.org/en" target="_blank" title="Node.js" aria-label="Access Node website"> <img align="left" src="assets/icons/node.svg" alt="Node.js Icon" height="50px" /> </a>
-	<a href="https://expressjs.com/" target="_blank" title="Express.js" aria-label="Access Express website"> <img align="left" src="assets/icons/express.svg" alt="Express.js Icon" height="42px"/> </a>
-	<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" aria-label="Access PostgreSQL website"> <img align="left" src="assets/icons/postgresql.svg" alt="Express.js Icon" height="42px"/> </a>
+	<a href="https://nodejs.org/en" target="_blank" title="Node.js" aria-label="Access Node website"> <img align="left" src="assets/icons/node.svg" alt="Node.js Icon" height="42px" width="142px"/> </a>
+	<a href="https://expressjs.com/" target="_blank" title="Express.js" aria-label="Access Express website"> <img align="left" src="assets/icons/express.svg" alt="Express.js Icon" height="42px" width="142px"/> </a>
+	<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL" aria-label="Access PostgreSQL website"> <img align="left" src="assets/icons/postgresql.svg" alt="Express.js Icon" height="42px" width="152px"/> </a>
 	
 </details>
 
