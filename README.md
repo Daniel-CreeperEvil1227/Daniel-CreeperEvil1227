@@ -91,28 +91,36 @@
 	<summary><b>📚 &nbsp; I'm interested in learning:</b></summary>
 	<br/>
 	<div>
-		<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="42px" width="166px"/> </a>
-		<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="42px" width="42px"/> </a>
-		<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="42px" width="42px"/> </a>
-		<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="42px" width="42px"/> </a>
+		<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="48px" width="166px"/> </a>
+		<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="48px" width="42px"/> </a>
+		<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="48px" width="42px"/> </a>
+		<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="48px" width="42px"/> </a>
 	</div>
 	<br/><br/>
 	<div>
-		<a href="https://angular.io/" target="_blank" title="Angular" aria-label="Access Angular website"> <img align="left" src="assets/icons/angular.svg" alt="Angular Icon" height="42px" width="166px"/> </a>
-		<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="42px" width="42px"/> </a>
-		<a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails" aria-label="Access Ruby on Rails website"> <img align="left" src="assets/icons/ruby-on-rails.svg" alt="Ruby on Rails Icon" height="42px" width="42px"/> </a>
-		<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img align="left" src="assets/icons/spring.svg" alt="Spring Icon" height="42px" width="42px"/> </a>
-		<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img align="left" src="assets/icons/laravel.svg" alt="Laravel Icon" height="42px" width="42px"/> </a>
+		<a href="https://angular.io/" target="_blank" title="Angular" aria-label="Access Angular website"> <img align="left" src="assets/icons/angular.svg" alt="Angular Icon" height="48px" width="166px"/> </a>
+		<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="48px" width="42px"/> </a>
+		<a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails" aria-label="Access Ruby on Rails website"> <img align="left" src="assets/icons/ruby-on-rails.svg" alt="Ruby on Rails Icon" height="48px" width="42px"/> </a>
+		<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img align="left" src="assets/icons/spring.svg" alt="Spring Icon" height="48px" width="42px"/> </a>
+		<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img align="left" src="assets/icons/laravel.svg" alt="Laravel Icon" height="48px" width="42px"/> </a>
 	</div>
 	<br/><br/>
 	<div>
-		<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img align="left" src="assets/icons/java.svg" alt="Java Icon" height="42px" width="42px"/> </a>
-		<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img align="left" src="assets/icons/c.svg" alt="C Icon" height="42px" width="42px"/> </a>
-		<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" title="C++" aria-label="Access Cplusplus docs"> <img align="left" src="assets/icons/c++.svg" alt="C++ Icon" height="42px" width="42px"/> </a>
-		<a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" title="C#" aria-label="Access Csharp docs"> <img align="left" src="assets/icons/c#.svg" alt="C# Icon" height="42px" width="42px"/> </a>
-		<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img align="left" src="assets/icons/php.svg" alt="PHP Icon" height="42px" width="42px"/> </a>
-		<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img align="left" src="assets/icons/swift.svg" alt="Swift Icon" height="42px" width="42px"/> </a>
-		<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img align="left" src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="42px" width="42px"/> </a>
+		<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img align="left" src="assets/icons/java.svg" alt="Java Icon" height="48px" width="104px"/> </a>
+		<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img align="left" src="assets/icons/c.svg" alt="C Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" title="C++" aria-label="Access Cplusplus docs"> <img align="left" src="assets/icons/c-plusplus.svg" alt="C++ Icon" height="48px" width="42px"/> </a>
+		<a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" title="C#" aria-label="Access Csharp docs"> <img align="left" src="assets/icons/c-sharp.svg" alt="C# Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img align="left" src="assets/icons/php.svg" alt="PHP Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img align="left" src="assets/icons/swift.svg" alt="Swift Icon" height="48px" width="42px"/> </a>
+	</div>
+	<br/><br/>
+	<div>
+		<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" aria-label="Access Kotlin website"> <img align="left" src="assets/icons/kotlin.svg" alt="Kotlin Icon" height="48px" width="104px"/> </a>
+		<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img align="left" src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.rust-lang.org/" target="_blank" title="Rust" aria-label="Access Rust website"> <img align="left" src="assets/icons/rust.svg" alt="Rust Icon" height="48px" width="42px"/> </a>
+		<a href="https://go.dev/" target="_blank" title="Go" aria-label="Access Go website"> <img align="left" src="assets/icons/go.svg" alt="Go Icon" height="48px" width="42px"/> </a>
+		<a href="https://dart.dev/" target="_blank" title="Dart" aria-label="Access Dart website"> <img align="left" src="assets/icons/dart.svg" alt="Dart Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" aria-label="Access Ruby website"> <img align="left" src="assets/icons/ruby.svg" alt="Ruby Icon" height="48px" width="42px"/> </a>
 	</div>
 	
 </details>
