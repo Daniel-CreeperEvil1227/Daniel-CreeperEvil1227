@@ -47,7 +47,6 @@
 		<a href="https://styled-components.com/" target="_blank" title="Styled Components" aria-label="Access Styled Components website"> <img src="assets/icons/styled-components.svg" alt="Styled Components Icon" height="42px" width="42px"/> </a>
 		<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank" title="React Toastfy" aria-label="Access React Toastfy website"> <img src="assets/icons/toastfy.svg" alt="React Toastfy Icon" height="42px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://axios-http.com/" target="_blank" title="Axios" aria-label="Access Axios website"> <img src="assets/icons/axios.svg" alt="Axios Icon" height="42px" width="42px"/> </a>
 		<a href="https://reactrouter.com/en/main" target="_blank" title="React Router DOM" aria-label="Access React Router DOM website"> <img src="assets/icons/router-dom.svg" alt="Router DOM Icon" height="42px" width="42px"/> </a>
@@ -72,7 +71,6 @@
 		<a href="https://insomnia.rest/" target="_blank" title="Insomnia" aria-label="Access Insomnia website"> <img src="assets/icons/insomnia.svg" alt="Insomnia Icon" height="42px" width="42px"/> </a>
 		<a href="https://vercel.com/" target="_blank" title="Vercel" aria-label="Access Vercel website"> <img src="assets/icons/vercel.svg" alt="Vercel Icon" height="42px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://vitejs.dev/" target="_blank" title="Vite.js" aria-label="Access Vite website"> <img src="assets/icons/vite.svg" alt="Vite.js Icon" height="42px" width="42px"/> </a>
 		<a href="https://codepen.io/" target="_blank" title="CodePen" aria-label="Access CodePen website"> <img src="assets/icons/codepen.svg" alt="CodePen Icon" height="42px" width="42px"/> </a>
@@ -94,7 +92,6 @@
 		<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img src="assets/icons/stitches.svg" alt="Stitches Icon" height="48px" width="42px"/> </a>
 		<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="48px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://angular.io/" target="_blank" title="Angular" aria-label="Access Angular website"> <img src="assets/icons/angular.svg" alt="Angular Icon" height="48px" width="166px"/> </a>
 		<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img src="assets/icons/vue.svg" alt="Vue.js Icon" height="48px" width="42px"/> </a>
@@ -102,7 +99,6 @@
 		<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img src="assets/icons/spring.svg" alt="Spring Icon" height="48px" width="42px"/> </a>
 		<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img src="assets/icons/laravel.svg" alt="Laravel Icon" height="48px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img src="assets/icons/java.svg" alt="Java Icon" height="48px" width="104px"/> </a>
 		<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img src="assets/icons/c.svg" alt="C Icon" height="48px" width="42px"/> </a>
@@ -111,7 +107,6 @@
 		<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img src="assets/icons/php.svg" alt="PHP Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img src="assets/icons/swift.svg" alt="Swift Icon" height="48px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" aria-label="Access Kotlin website"> <img src="assets/icons/kotlin.svg" alt="Kotlin Icon" height="48px" width="104px"/> </a>
 		<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="48px" width="42px"/> </a>
@@ -120,12 +115,11 @@
 		<a href="https://dart.dev/" target="_blank" title="Dart" aria-label="Access Dart website"> <img src="assets/icons/dart.svg" alt="Dart Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" aria-label="Access Ruby website"> <img src="assets/icons/ruby.svg" alt="Ruby Icon" height="48px" width="42px"/> </a>
 	</div>
-	<br/><br/>
 	<div>
 		<a href="https://www.oracle.com/" target="_blank" title="Oracle Techs" aria-label="Access Oracle website"> <img src="assets/icons/oracle.svg" alt="Oracle Icon" height="48px" width="104px"/> </a>
 		<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img src="assets/icons/mysql.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="Microsoft SQL Server" aria-label="Access Microsoft SQL Server website"> <img src="assets/icons/sqlserver.svg" alt="Microsoft SQL Server Icon" height="48px" width="42px"/> </a>
-		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img src="assets/icons/redis2.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
+		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img src="assets/icons/redis.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
 		<a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Cassandra" aria-label="Access Cassandra website"> <img src="assets/icons/cassandra.svg" alt="Cassandra Icon" height="48px" width="42px"/> </a>
 		<a href="https://sqlite.org/index.html" target="_blank" title="SQLite" aria-label="Access SQLite website"> <img src="assets/icons/sqlite.svg" alt="SQLite Icon" height="48px" width="42px"/> </a>
 	</div>
