@@ -180,6 +180,7 @@ gamelife
 <!-- dinosaur gif -->
 <a href="https://trex-runner.com/" title='Play "Dinosaur Run" '>
 	<img width="100%" src="assets/gifs/dino.gif" alt="Chrome Dinosaur"/>
+	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
 <a/>
 
 <!-- wave svg -->
