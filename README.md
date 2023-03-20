@@ -132,8 +132,8 @@
 		<a href="https://www.alibabacloud.com/" target="_blank" title="Alibaba Cloud" aria-label="Access Alibaba Cloud website"> <img src="assets/icons/alibaba-cloud.svg" alt="Alibaba Cloud Icon" height="48px" width="42px"/> </a>
 	</div>
 	<div>
-		<a href="https://www.heroku.com/" target="_blank" title="Heroku" aria-label="Access Heroku website"> <img src="assets/icons/heroku.svg" alt="Heroku Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.vmware.com/cloud-solutions.html" target="_blank" title="VMware Cloud" aria-label="Access VMware Cloud website"> <img src="assets/icons/vmware-cloud.svg" alt="VMware Cloud Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.heroku.com/" target="_blank" title="Heroku" aria-label="Access Heroku website"> <img align="left" src="assets/icons/heroku.svg" alt="Heroku Icon" height="48px" width="42px"/> </a>
+		<a href="https://www.vmware.com/cloud-solutions.html" target="_blank" title="VMware Cloud" aria-label="Access VMware Cloud website"> <img align="left" src="assets/icons/vmware-cloud.svg" alt="VMware Cloud Icon" height="48px" width="42px"/> </a>
 		<a href="https://www.openstack.org/" target="_blank" title="OpenStack" aria-label="Access OpenStack website"> <img src="assets/icons/openstack.svg" alt="OpenStack Icon" height="48px" width="42px"/> </a>
 	</div>
 </details>
