@@ -19,15 +19,15 @@
 </div>
 
 <!-- social media icons -->
-<details>
-	<summary><b>😄 &nbsp;Connect with me:</b></summary>
+<details aria-label="view my social media">
+	<summary title="click to view"><b>😄 &nbsp;Connect with me:</b></summary>
 	<br/>
 	<a href="https://www.linkedin.com/in/carlosdaniel1227/?locale=en_US" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="48px"/> </a>
 </details>
 	
 <!-- current lang/tool icons -->
-<details>
-	<summary><b>📝 &nbsp; I'm currently learning / improving on:</b></summary>
+<details aria-label="view technologies i am currently learning or improving on">
+	<summary title="click to view"><b>📝 &nbsp; I'm currently learning / improving on:</b></summary>
 	<br/>
 	<a href="https://nodejs.org/en" target="_blank" title="Node.js" aria-label="Access Node website"> <img align="left" src="assets/icons/node.svg" alt="Node.js Icon" height="30px" width="110px"/> </a>
 	<a href="https://expressjs.com/" target="_blank" title="Express.js" aria-label="Access Express website"> <img align="left" src="assets/icons/express.svg" alt="Express.js Icon" height="42px" width="130px"/> </a>
@@ -35,8 +35,8 @@
 </details>
 
 <!-- lang icons -->
-<details>
-	<summary><b>👩‍💻 &nbsp; Languages and Libs/Frameworks I learned:</b></summary>
+<details aria-label="view language, libs and framworks i learnerd">
+	<summary title="click to view"><b>👩‍💻 &nbsp; Languages and Libs/Frameworks I learned:</b></summary>
 	<br/>
 	<div>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" aria-label="Access HTML5 docs"> <img align="left" src="assets/icons/html.svg" alt="HTML5 Icon" height="42px" width="42px"/> </a>
@@ -59,8 +59,8 @@
 </details>
 
 <!-- tool icons -->
-<details>
-	<summary><b>🛏 &nbsp; Tools I use:</b></summary>
+<details aria-label="view tools i use">
+	<summary title="click to view"><b>🛏 &nbsp; Tools I use:</b></summary>
 	<br/>
 	<div>
 		<a href="https://github.com/" target="_blank" title="GitHub" aria-label="Back to GitHub home"> <img align="left" src="assets/icons/github.svg" alt="GitHub Icon" height="42px" width="42px"/> </a>
@@ -83,63 +83,76 @@
 </details>
 
 <!-- any lang/tool icons -->
-<details>
-	<summary><b>📚 &nbsp; I'm interested in learning:</b></summary>
-	<h3>Libs and Frameworks:</h3>
-	<div>
-		<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="48px" width="166px"/> </a>
-		<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="48px" width="42px"/> </a>
-		<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="48px" width="42px"/> </a>
-		<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="48px" width="42px"/> </a>
-		<a href="https://nuxtjs.org/" target="_blank" title="Nuxt.js" aria-label="Access Nuxt website"> <img src="assets/icons/nuxt.svg" alt="Nuxt.js Icon" height="48px" width="42px"/> </a>
-	</div>
-	<div>
-		<a href="https://angular.io/" target="_blank" title="Angular" aria-label="Access Angular website"> <img align="left" src="assets/icons/angular.svg" alt="Angular Icon" height="48px" width="166px"/> </a>
-		<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="48px" width="42px"/> </a>
-		<a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails" aria-label="Access Ruby on Rails website"> <img align="left" src="assets/icons/ruby-on-rails.svg" alt="Ruby on Rails Icon" height="48px" width="42px"/> </a>
-		<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img align="left" src="assets/icons/spring.svg" alt="Spring Icon" height="48px" width="42px"/> </a>
-		<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img src="assets/icons/laravel.svg" alt="Laravel Icon" height="48px" width="42px"/> </a>
-	</div>
-	<h3>Languages:</h3>
-	<div>
-		<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img align="left" src="assets/icons/java.svg" alt="Java Icon" height="48px" width="104px"/> </a>
-		<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img align="left" src="assets/icons/c.svg" alt="C Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" title="C++" aria-label="Access Cplusplus docs"> <img align="left" src="assets/icons/c-plusplus.svg" alt="C++ Icon" height="48px" width="42px"/> </a>
-		<a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" title="C#" aria-label="Access Csharp docs"> <img align="left" src="assets/icons/c-sharp.svg" alt="C# Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img align="left" src="assets/icons/php.svg" alt="PHP Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img src="assets/icons/swift.svg" alt="Swift Icon" height="48px" width="42px"/> </a>
-	</div>
-	<div>
-		<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" aria-label="Access Kotlin website"> <img align="left" src="assets/icons/kotlin.svg" alt="Kotlin Icon" height="48px" width="104px"/> </a>
-		<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img align="left" src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.rust-lang.org/" target="_blank" title="Rust" aria-label="Access Rust website"> <img align="left" src="assets/icons/rust.svg" alt="Rust Icon" height="48px" width="42px"/> </a>
-		<a href="https://go.dev/" target="_blank" title="Go" aria-label="Access Go website"> <img align="left" src="assets/icons/go.svg" alt="Go Icon" height="48px" width="42px"/> </a>
-		<a href="https://dart.dev/" target="_blank" title="Dart" aria-label="Access Dart website"> <img align="left" src="assets/icons/dart.svg" alt="Dart Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" aria-label="Access Ruby website"> <img src="assets/icons/ruby.svg" alt="Ruby Icon" height="48px" width="42px"/> </a>
-	</div>
-	<h3>Database Techs:</h3>
-	<div>
-		<a href="https://www.oracle.com/" target="_blank" title="Oracle Techs" aria-label="Access Oracle website"> <img align="left" src="assets/icons/oracle.svg" alt="Oracle Icon" height="48px" width="104px"/> </a>
-		<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img align="left" src="assets/icons/mysql.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="Microsoft SQL Server" aria-label="Access Microsoft SQL Server website"> <img align="left" src="assets/icons/sqlserver.svg" alt="Microsoft SQL Server Icon" height="48px" width="42px"/> </a>
-		<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img align="left" src="assets/icons/redis.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
-		<a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Cassandra" aria-label="Access Cassandra website"> <img align="left" src="assets/icons/cassandra.svg" alt="Cassandra Icon" height="48px" width="42px"/> </a>
-		<a href="https://sqlite.org/index.html" target="_blank" title="SQLite" aria-label="Access SQLite website"> <img src="assets/icons/sqlite.svg" alt="SQLite Icon" height="48px" width="42px"/> </a>
-	</div>
-	<h3>Cloud Service Techs:</h3>
-	<div>
-		<a href="https://azure.microsoft.com/en-us/" target="_blank" title="Microsoft Azure" aria-label="Access Microsoft Azure website"> <img align="left" src="assets/icons/azure.svg" alt="Microsoft Azure Icon" height="48px" width="104px"/> </a>
-		<a href="https://cloud.google.com/?hl=en" target="_blank" title="Google Cloud Platform" aria-label="Access Google Cloud Platform website"> <img align="left" src="assets/icons/google-cloud.svg" alt="Google Cloud Platform Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud" aria-label="Access Oracle Cloud website"> <img align="left" src="assets/icons/oracle-cloud.svg" alt="Oracle Cloud Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.ibm.com/cloud" target="_blank" title="IBM Cloud" aria-label="Access IBM Cloud website"> <img align="left" src="assets/icons/ibm-cloud.svg" alt="IBM Cloud Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.digitalocean.com/" target="_blank" title="DigitalOcean" aria-label="Access DigitalOcean website"> <img align="left" src="assets/icons/digitalocean.svg" alt="DigitalOcean Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.alibabacloud.com/" target="_blank" title="Alibaba Cloud" aria-label="Access Alibaba Cloud website"> <img src="assets/icons/alibaba-cloud.svg" alt="Alibaba Cloud Icon" height="48px" width="42px"/> </a>
-	</div>
-	<div>
-		<a href="https://www.heroku.com/" target="_blank" title="Heroku" aria-label="Access Heroku website"> <img align="left" src="assets/icons/heroku.svg" alt="Heroku Icon" height="48px" width="104px"/> </a>
-		<a href="https://www.vmware.com/cloud-solutions.html" target="_blank" title="VMware Cloud" aria-label="Access VMware Cloud website"> <img align="left" src="assets/icons/vmware-cloud.svg" alt="VMware Cloud Icon" height="48px" width="42px"/> </a>
-		<a href="https://www.openstack.org/" target="_blank" title="OpenStack" aria-label="Access OpenStack website"> <img src="assets/icons/openstack.svg" alt="OpenStack Icon" height="48px" width="42px"/> </a>
-	</div>
+<details aria-label="view technologies i am interested in learning">
+	<summary title="click to view"><b>📚 &nbsp; I'm interested in learning:</b></summary>
+	<br/>
+	<details open aria-label="view libs and frameworks i am interested in learning">
+		<summary title="click to view"><b>💡 &nbsp; Libs and Frameworks:</b></summary>
+		<br/>
+		<div>
+			<a href="https://nextjs.org/" target="_blank" title="Next.js" aria-label="Access Next website"> <img align="left" src="assets/icons/next.svg" alt="Next.js Icon" height="48px" width="166px"/> </a>
+			<a href="https://sass-lang.com/" target="_blank" title="SASS" aria-label="Access SASS website"> <img align="left" src="assets/icons/sass.svg" alt="SASS Icon" height="48px" width="42px"/> </a>
+			<a href="https://stitches.dev/" target="_blank" title="Stitches" aria-label="Access Stitches website"> <img align="left" src="assets/icons/stitches.svg" alt="Stitches Icon" height="48px" width="42px"/> </a>
+			<a href="https://tailwindcss.com/" target="_blank" title="Tailwindcss" aria-label="Access Tailwindcss website"> <img align="left" src="assets/icons/tailwindcss.svg" alt="Tailwindcss Icon" height="48px" width="42px"/> </a>
+			<a href="https://nuxtjs.org/" target="_blank" title="Nuxt.js" aria-label="Access Nuxt website"> <img src="assets/icons/nuxt.svg" alt="Nuxt.js Icon" height="48px" width="42px"/> </a>
+		</div>
+		<div>
+			<a href="https://angular.io/" target="_blank" title="Angular" aria-label="Access Angular website"> <img align="left" src="assets/icons/angular.svg" alt="Angular Icon" height="48px" width="166px"/> </a>
+			<a href="https://vuejs.org/" target="_blank" title="Vue.js" aria-label="Access Vue website"> <img align="left" src="assets/icons/vue.svg" alt="Vue.js Icon" height="48px" width="42px"/> </a>
+			<a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails" aria-label="Access Ruby on Rails website"> <img align="left" src="assets/icons/ruby-on-rails.svg" alt="Ruby on Rails Icon" height="48px" width="42px"/> </a>
+			<a href="https://spring.io/" target="_blank" title="Spring" aria-label="Access Spring website"> <img align="left" src="assets/icons/spring.svg" alt="Spring Icon" height="48px" width="42px"/> </a>
+			<a href="https://laravel.com/" target="_blank" title="Laravel" aria-label="Access Laravel website"> <img src="assets/icons/laravel.svg" alt="Laravel Icon" height="48px" width="42px"/> </a>
+		</div>
+	</details>
+	<details aria-label="view languages i am interested in learning">
+		<summary title="click to view"><b>📋 &nbsp; Languages:</b></summary>
+		<br/>
+		<div>
+			<a href="https://dev.java/" target="_blank" title="Java" aria-label="Access Java website"> <img align="left" src="assets/icons/java.svg" alt="Java Icon" height="48px" width="104px"/> </a>
+			<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="C" aria-label="Access C docs"> <img align="left" src="assets/icons/c.svg" alt="C Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" title="C++" aria-label="Access Cplusplus docs"> <img align="left" src="assets/icons/c-plusplus.svg" alt="C++ Icon" height="48px" width="42px"/> </a>
+			<a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" title="C#" aria-label="Access Csharp docs"> <img align="left" src="assets/icons/c-sharp.svg" alt="C# Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.php.net/" target="_blank" title="PHP" aria-label="Access PHP website"> <img align="left" src="assets/icons/php.svg" alt="PHP Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.swift.org/about/" target="_blank" title="Swift" aria-label="Access Swift website"> <img src="assets/icons/swift.svg" alt="Swift Icon" height="48px" width="42px"/> </a>
+		</div>
+		<div>
+			<a href="https://kotlinlang.org/" target="_blank" title="Kotlin" aria-label="Access Kotlin website"> <img align="left" src="assets/icons/kotlin.svg" alt="Kotlin Icon" height="48px" width="104px"/> </a>
+			<a href="https://developer.apple.com/documentation/objectivec" target="_blank" title="Objective-C" aria-label="Access Objective-C website"> <img align="left" src="assets/icons/objective-c.svg" alt="Objective-C Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.rust-lang.org/" target="_blank" title="Rust" aria-label="Access Rust website"> <img align="left" src="assets/icons/rust.svg" alt="Rust Icon" height="48px" width="42px"/> </a>
+			<a href="https://go.dev/" target="_blank" title="Go" aria-label="Access Go website"> <img align="left" src="assets/icons/go.svg" alt="Go Icon" height="48px" width="42px"/> </a>
+			<a href="https://dart.dev/" target="_blank" title="Dart" aria-label="Access Dart website"> <img align="left" src="assets/icons/dart.svg" alt="Dart Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby" aria-label="Access Ruby website"> <img src="assets/icons/ruby.svg" alt="Ruby Icon" height="48px" width="42px"/> </a>
+		</div>
+	</details>
+	<details aria-label="view database technologies i am interested in learning">
+		<summary title="click to view"><b>🗃 &nbsp; Database Techs:</b></summary>
+		<br/>
+		<div>
+			<a href="https://www.oracle.com/" target="_blank" title="Oracle Techs" aria-label="Access Oracle website"> <img align="left" src="assets/icons/oracle.svg" alt="Oracle Icon" height="48px" width="104px"/> </a>
+			<a href="https://www.mysql.com/" target="_blank" title="MySQL" aria-label="Access MySQL website"> <img align="left" src="assets/icons/mysql.svg" alt="MySQL Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" title="Microsoft SQL Server" aria-label="Access Microsoft SQL Server website"> <img align="left" src="assets/icons/sqlserver.svg" alt="Microsoft SQL Server Icon" height="48px" width="42px"/> </a>
+			<a href="https://redis.io/" target="_blank" title="Redis" aria-label="Access Redis website"> <img align="left" src="assets/icons/redis.svg" alt="Redis Icon" height="48px" width="42px"/> </a>
+			<a href="https://cassandra.apache.org/_/index.html" target="_blank" title="Cassandra" aria-label="Access Cassandra website"> <img align="left" src="assets/icons/cassandra.svg" alt="Cassandra Icon" height="48px" width="42px"/> </a>
+			<a href="https://sqlite.org/index.html" target="_blank" title="SQLite" aria-label="Access SQLite website"> <img src="assets/icons/sqlite.svg" alt="SQLite Icon" height="48px" width="42px"/> </a>
+		</div>
+	</details>
+	<details aria-label="view cloud service technologies i am interested in learning">
+		<summary title="click to view"><b>⛅ &nbsp; Cloud Service Techs:</b></summary>
+		<br/>
+		<div>
+			<a href="https://azure.microsoft.com/en-us/" target="_blank" title="Microsoft Azure" aria-label="Access Microsoft Azure website"> <img align="left" src="assets/icons/azure.svg" alt="Microsoft Azure Icon" height="48px" width="104px"/> </a>
+			<a href="https://cloud.google.com/?hl=en" target="_blank" title="Google Cloud Platform" aria-label="Access Google Cloud Platform website"> <img align="left" src="assets/icons/google-cloud.svg" alt="Google Cloud Platform Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud" aria-label="Access Oracle Cloud website"> <img align="left" src="assets/icons/oracle-cloud.svg" alt="Oracle Cloud Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.ibm.com/cloud" target="_blank" title="IBM Cloud" aria-label="Access IBM Cloud website"> <img align="left" src="assets/icons/ibm-cloud.svg" alt="IBM Cloud Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.digitalocean.com/" target="_blank" title="DigitalOcean" aria-label="Access DigitalOcean website"> <img align="left" src="assets/icons/digitalocean.svg" alt="DigitalOcean Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.alibabacloud.com/" target="_blank" title="Alibaba Cloud" aria-label="Access Alibaba Cloud website"> <img src="assets/icons/alibaba-cloud.svg" alt="Alibaba Cloud Icon" height="48px" width="42px"/> </a>
+		</div>
+		<div>
+			<a href="https://www.heroku.com/" target="_blank" title="Heroku" aria-label="Access Heroku website"> <img align="left" src="assets/icons/heroku.svg" alt="Heroku Icon" height="48px" width="104px"/> </a>
+			<a href="https://www.vmware.com/cloud-solutions.html" target="_blank" title="VMware Cloud" aria-label="Access VMware Cloud website"> <img align="left" src="assets/icons/vmware-cloud.svg" alt="VMware Cloud Icon" height="48px" width="42px"/> </a>
+			<a href="https://www.openstack.org/" target="_blank" title="OpenStack" aria-label="Access OpenStack website"> <img src="assets/icons/openstack.svg" alt="OpenStack Icon" height="48px" width="42px"/> </a>
+		</div>
+	</details>
 </details>
 
 <!--
