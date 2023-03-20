@@ -1,7 +1,9 @@
 <!-- wave dropping svg -->
-<p align="center">
-	<img src="assets/animations/wave-drop.svg" alt="Wave dropping animation"/>
-</p>
+<div align="center">
+	<a href="https://github.com/Daniel-CreeperEvil1227">
+		<img src="assets/animations/wave-drop.svg" alt="Wave dropping animation"/>
+	</a>
+</div>
 
 <!-- lang table -->
 <table align="right">
@@ -178,12 +180,15 @@ gamelife
 </div>
 
 <!-- dinosaur gif -->
-<a href="https://trex-runner.com/" title='Play "Dinosaur Run" '>
-	<img width="100%" src="assets/gifs/dino.gif" alt="Chrome Dinosaur"/>
-	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
-<a/>
+<div align="center">
+	<a href="https://trex-runner.com/" title='Play "Dinosaur Run" '>
+		<img width="75%" src="assets/gifs/dino.gif?raw=true" alt="Chrome Dinosaur"/>
+	</a>
+</div>
 
 <!-- wave svg -->
-<p align="center">
-	<img src="assets/animations/wave.svg" alt="Wave animation"/>
-</p>
+<div align="center">
+	<a href="https://github.com/Daniel-CreeperEvil1227">
+		<img src="assets/animations/wave.svg" alt="Wave animation"/>
+	</a>
+</div>
