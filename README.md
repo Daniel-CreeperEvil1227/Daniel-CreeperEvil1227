@@ -5,6 +5,11 @@
 	</a>
 </div>
 
+<!-- typing animation -->
+<a href="https://github.com/Daniel-CreeperEvil1227">
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+NL&weight=500&size=22&pause=1000&color=8229FF&center=true&vCenter=true&width=440&height=45&lines=%E2%9C%A8+%3C+Hello+World!+%2F%3E;%F0%9F%91%8B+I'm+Daniel!;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full-Stack+web+Developer;%F0%9F%93%9A+Always+learning+new+things" alt="Typing SVG" />
+</a>
+
 <!-- lang table -->
 <table align="right">
 	<tr title="Access the English version"><td><a href="README.md" color="02D892" aria-label="Access the English version"><img src="assets/flags/us-flag.png" alt="united states flag icon" height="24" display="flex" align="center">&nbsp; English</a></td></tr>
