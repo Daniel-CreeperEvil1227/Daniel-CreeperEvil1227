@@ -29,7 +29,7 @@
 <details aria-label="view my social media">
 	<summary title="click to view"><b>😄 &nbsp;Connect with me:</b></summary>
 	<br/>
-	<a href="https://www.linkedin.com/in/carlosdaniel1227/?locale=en_US" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="48px"/> </a>
+	<a href="https://www.linkedin.com" target="_blank" title="Linkedin" aria-label="Access my Linkedin profile"> <img src="assets/icons/linkedin.svg" alt="Linkedin Icon" height="48px"/> </a>
 </details>
 	
 <!-- current lang/tool icons -->
